@@ -9,4 +9,4 @@ Creamos una *columna nueva en base a la columna units*.
 ### Paso 2.2
 En el siguiente link de mi perfil de Linkedin  [mi perfil](https://www.linkedin.com/in/hahv/)
 
-![Texto alternativo](https://plus.unsplash.com/premium_photo-1661892088256-0a17130b3d0d?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Texto alternativo](https://github.com/hector1994/TT-DA-95-GIT-EXPERIMENT/blob/main/fotografia_perrito.png)
